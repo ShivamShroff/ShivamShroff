@@ -3,9 +3,9 @@
  
 
 <!-- <h3 align="center">I am software Developer Engineer from India</h3> -->
-## HELLO JI :wave:, I'm Roshan kumar! 
+## HELLO :wave:, I'm Shivam kumar Gaurav! 
 
-# :dizzy: About Me! 
+# :cyclone: About Me! 
 :fireworks: I’m currently working  on SIH 2023 PS.
 
 :people_holding_hands:  I’m looking to collaborate on exciting open-source projects and innovative web applications.  
@@ -17,8 +17,7 @@
 <image align="right" width=100 height=100 src="https://user-images.githubusercontent.com/91673102/228229372-0006d3e5-b578-4ac9-a074-99008c31943e.png"/>
 
 ### 🌐Social Media
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-kr-11070b1a3/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RoshanAnsy)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-gaurav-6479561bb/)
   
 
 ## Tech stack:~
@@ -55,12 +54,11 @@
 ![alt text](https://img.shields.io/badge/VsCode-05A081?style=for-the-badge&logo=visualstudiocode)
 ![alt text](https://img.shields.io/badge/AndroidStudio-05A081?style=for-the-badge&logo=androidstudio)
 ![alt text](https://img.shields.io/badge/IntellijIDEA-05A081?style=for-the-badge&logo=intellijidea)
-![alt text](https://img.shields.io/badge/SublimeText-05A081?style=for-the-badge&logo=sublimetext)
 
 <div align="center" > 
  <div>
-<img flex=row width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=RoshanAnsy&show_icons=true&theme=transparent&count_private=true" />
-<img flex=row width=auto align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanansy&show_icons=true&theme=transparent&layout=compact&count_private=true" alt="roshanansy" />
+<img flex=row width=auto align="left" src="https://github-readme-stats.vercel.app/api?username=ShivamShroff&show_icons=true&theme=transparent&count_private=true" />
+<img flex=row width=auto align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamShroff&show_icons=true&theme=transparent&layout=compact&count_private=true" alt="ShivamShroff" />
 
 
 </div>
@@ -83,17 +81,16 @@
    
   <p align="center" > 
   
-  [![](https://visitcount.itsvg.in/api?id=RoshanAnsy&label=Profile%20Views&color=1&icon=5&pretty=false&count_private=true)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=ShivamShroff&label=Profile%20Views&color=1&icon=5&pretty=false&count_private=true)](https://visitcount.itsvg.in)
   
   </p>
   </div>
 </div>
 <div width="full" align="center" >
    
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RoshanAnsy&theme=transparent&layout=compact&count_private=true")](https://git.io/streak-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShivamShroff&theme=transparent&layout=compact&count_private=true")](https://git.io/streak-stats)
   </div>
 
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RoshanAnsy&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
+username=ShivamShroff&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
 
  
